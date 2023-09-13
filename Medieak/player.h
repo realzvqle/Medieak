@@ -9,7 +9,7 @@
 
 void StartPlayer(vars* player, vars* window);
 void PlayerControl(vars* player);
-Rectangle DrawPlayer(vars* player, vars* window);
+Rectangle DrawPlayer(vars* player, vars* window, int i);
 
 
 

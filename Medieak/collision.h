@@ -5,7 +5,7 @@
 #include "headers.h"
 
 
-void CheckCollision(Rectangle players, Rectangle plats, vars* player);
+void CheckCollision(Rectangle players, Rectangle plats, Rectangle enemys, vars* player, vars* enemy, int x);
 
 
 
