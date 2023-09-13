@@ -3,7 +3,7 @@
 
 void StartWindow(vars* window) {
 
-	window->x = 800;
-	window->y = 600;
+	window->x = 1600;
+	window->y = 900;
 	strcpy(window->name, "Mediak");
 }
